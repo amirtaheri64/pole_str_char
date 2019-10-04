@@ -1,0 +1,2 @@
+# pole_str_char
+pole_structure_character
